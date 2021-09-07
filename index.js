@@ -36,6 +36,14 @@ var questions = [
     question: "Fourth Question - \n- Which college did I study at?: ",
     answer: "herald college kathmandu",
   },
+  {
+    question: "Fifth Question - \n- Which programming language do I use?: ",
+    answer: "javascript",
+  },
+  {
+    question: "Sixth Question - \n- What is my favorite food?: ",
+    answer: "momo",
+  }
 ];
 
 // ex01 to ex04: do it all together
